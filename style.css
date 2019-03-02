@@ -1,0 +1,11 @@
+h1 {
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+	border: solid 1px #20DF5A;
+}
+
+p {
+	text-align: center;
+}
